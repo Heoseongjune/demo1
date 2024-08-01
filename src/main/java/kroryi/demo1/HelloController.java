@@ -11,5 +11,7 @@ public class HelloController {
     protected void onHelloButtonClick() {
         welcomeText.setText("Welcome to JavaFX Application!");
         //가나다라
+
+        //동해물과백두산
     }
 }
